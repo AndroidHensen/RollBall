@@ -4,7 +4,7 @@
 
 #### 游戏截图
 
-![](https://raw.githubusercontent.com/AndroidHensen/RollBall/main/show.png)
+![](https://raw.githubusercontent.com/AndroidHensen/RollBall/master/show.png)
 
 #### 实现原理
 
