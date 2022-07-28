@@ -1,0 +1,10 @@
+{
+  "name": "RollBall",
+  "type": "3d",
+  "uuid": "cf5e17f5-c535-4003-a1b8-2dadbda6e4da",
+  "version": "3.3.2",
+  "creator": {
+    "version": "3.3.2"
+  },
+  "description": "跳跃球游戏"
+}
